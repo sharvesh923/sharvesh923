@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)
 <h1 align="center">Hi 👋, I'm Sharvesh</h1>
 <h3 align="center">A passionate Devops learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
